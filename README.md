@@ -22,3 +22,7 @@ alanlarına girmek.
     echo "<pre>";
     print_r($veri);
     echo "</pre>";
+
+Unutmadan çok açıklayıcı olan mükemmel üstü döküman adresini de ekleyeyim. :)
+
+https://www.triomobil.com/public/doc-last.html#doc-api-detail

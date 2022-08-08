@@ -1,8 +1,10 @@
 # trio-aractakip-php
 PHP Trio Araç Takip
 Tek yapmanız gereken "http://takip.triomobil.com/" adresine girmiş olduğunuz kullanıcı bilgilerini index.php içinde 
+
 $trio_user  ='kullanici adi';
 $trio_pass  ='şifre';
+
 alanlarına girmek.
 
 **ister bu şekilde :** 
